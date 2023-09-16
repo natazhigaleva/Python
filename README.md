@@ -1,4 +1,5 @@
 # qa_326
+<h3>Полезные материалы</h3>
 <ul>
 <li><a href="https://docs.python.org/3/" target="_blank">документация по пайтону</a> <br></li>
 <li><a href="https://thonny.org/" target="_blank">еще одна среда разботки для пайтона (хорошо при обучении)</a> <br></li>
