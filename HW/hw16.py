@@ -10,6 +10,3 @@ def check_isdigit(s):
     s = input().split()
     nums = list(filter(lambda num: num.isdigit(), s))
     print(int(len(nums)))
-
-# Lorem.txt ipsum32 dolor 56 sit amet 1, consec12tetur adipiscing 4 elit. Aenean 25 ultrices.
-# 3
